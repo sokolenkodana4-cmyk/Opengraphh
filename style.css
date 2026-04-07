@@ -1,0 +1,27 @@
+body{
+font-family:Arial;
+text-align: center;
+margin: 20px;
+background-color: #f9f7f1;
+}
+
+div{
+display: inline-block;
+width: 300px;
+margin: 20px;
+padding: 10px;
+background-color: #fff;
+border: 2px solid #ccc;
+border-radius: 10px;
+}
+img{
+width: 100%;
+border-radius: 10px;
+}
+h1{
+color: #6b705c;
+}
+p{
+color: #6b705c;
+font-size: 14px;
+}
